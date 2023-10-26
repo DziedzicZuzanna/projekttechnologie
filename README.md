@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- https://dziedziczuzanna.github.io/projekttechnologie/
+- Lefled Mao https://dziedziczuzanna.github.io/projekttechnologie/
 - Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vR-XGDj8-7qJ6KYHteXQq434zEJrVoBY5BFY6oQv0vc8p6VZLeaZCY6OqKWC-eBo3JtSMdcK7ZH0p3j/pubhtml
 
 ## Create Your Own
