@@ -8,7 +8,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## Live links (replace with your own)
 - Leaflead Map https://dziedziczuzanna.github.io/projekttechnologie/
-- Google Sheets https://docs.google.com/spreadsheets/d/1XdD2yHI1Qs7TsIaFqC6t31ODEq3HRDeR4xWuP1AcOOM/edit#gid=0
+- Google Sheets https://docs.google.com/spreadsheets/d/1XdD2yHI1Qs7TsIaFqC6t31ODEq3HRDeR4xWuP1AcOOM/edit?usp=sharing
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
 
